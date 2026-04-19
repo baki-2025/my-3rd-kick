@@ -1,0 +1,27 @@
+ /* h2 {
+            background-color: antiquewhite;
+            color: chartreuse;
+        } */
+         div h2 {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: olivedrab;
+         }
+        #text-p {
+            font-size: 32px;
+            color: fuchsia;
+        }
+        span {
+            color: aqua;
+            background-color: darkgoldenrod;
+        }
+        .mcq{
+            color: royalblue;
+        }
+        .written {
+            color: darkseagreen;   
+        }
+        .important {
+            background-color: white;
+            color: darkturquoise;
+
+        }
