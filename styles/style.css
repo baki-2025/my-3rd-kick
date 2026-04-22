@@ -1,8 +1,15 @@
+ * {
+    border-width: 1px;
+    border-color: aquamarine;
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
  /* h2 {
             background-color: antiquewhite;
             color: chartreuse;
         } */
-         div h2 {
+         div h2,h1 {
             font-family: Verdana, Geneva, Tahoma, sans-serif;
             color: olivedrab;
          }
